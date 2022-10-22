@@ -5,8 +5,6 @@
  */
 package anagram;
 
-import com.sun.javafx.scene.control.skin.VirtualFlow;
-import java.util.AbstractList;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
