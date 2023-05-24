@@ -12,7 +12,7 @@ package DetectCapital;
 public class TestClas {
     public static void main(String[] args) {
         DetectCapital dc = new DetectCapital();
-        System.out.println(""+dc.detectUppercaseUseBrain("Anandave"));
+        System.out.println(""+dc.detectUppercaseUseBrain("AnanDave"));
         System.out.println(""+dc.detectUppercaseUse("Anand"));
     }
    
