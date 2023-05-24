@@ -19,7 +19,7 @@ public class SumofTwoNumbers {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int[] numbers = new int[]{3,3,2,2,3};
+        int[] numbers = new int[]{1,3,3,3,4};
         int target = 5;
         int[] result = getTwosum(numbers, target); 
         System.out.print(result[0]+" "+result[1]);
